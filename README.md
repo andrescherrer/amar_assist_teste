@@ -1,8 +1,13 @@
 # Amar Assit Teste
 
-Siga os passos abaixo para subir o sistema:
-É fundamental que você tenha o docker instalado em seu equipamento.
+## O projeto foi desenvolvido usando as seguintes tecnologias:
 
+* PHP 8.0
+* Mysql 8.X
+* Laravel 9.X
+* Docker e Docker compose
+
+Siga os passos abaixo para subir o sistema:
 
 Faça clone do repositório
 ```
