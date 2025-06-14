@@ -1,7 +1,7 @@
 # Amar Assit Teste
 
-## Siga os passos abaixo para subir o sistema:
-## Obs.: é fundamental que você tenha o docker instalado em seu equipamento.
+### Siga os passos abaixo para subir o sistema:
+### É fundamental que você tenha o docker instalado em seu equipamento.
 
 
 ### Faça clone do repositório
